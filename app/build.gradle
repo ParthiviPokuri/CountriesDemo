@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "com.example.praveenp.logitechtestapp"
+        applicationId "com.example.praveenp.allianz"
         minSdkVersion 21
         targetSdkVersion 23
         versionCode 1
